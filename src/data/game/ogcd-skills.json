@@ -8649,7 +8649,7 @@
 		}
 	},
 	"29065" : {
-		"recast" : 12.0,
+		"recast" : 15.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -8667,7 +8667,7 @@
 		}
 	},
 	"29066" : {
-		"recast" : 24.0,
+		"recast" : 30.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -9361,7 +9361,7 @@
 		}
 	},
 	"29258" : {
-		"recast" : 16.0,
+		"recast" : 12.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -9379,7 +9379,7 @@
 		}
 	},
 	"29259" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -9415,7 +9415,7 @@
 		}
 	},
 	"29261" : {
-		"recast" : 12.0,
+		"recast" : 10.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -9433,7 +9433,7 @@
 		}
 	},
 	"29262" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -10057,7 +10057,7 @@
 		}
 	},
 	"29505" : {
-		"recast" : 12.0,
+		"recast" : 10.0,
 		"charges" : 3,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -11743,7 +11743,7 @@
 			"name" : {
 				"en" : "Aetherial Shift",
 				"de" : "Ätherische Verschiebung",
-				"fr" : "Déplacément éthéréen",
+				"fr" : "Déplacement éthéréen",
 				"jp" : "エーテリアルシフト"
 			}
 		}
@@ -11871,7 +11871,7 @@
 		}
 	},
 	"39166" : {
-		"recast" : 16.0,
+		"recast" : 12.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -11943,7 +11943,7 @@
 		}
 	},
 	"39189" : {
-		"recast" : 60.0,
+		"recast" : 45.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12015,7 +12015,7 @@
 		}
 	},
 	"39205" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12033,7 +12033,7 @@
 		}
 	},
 	"39206" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12051,7 +12051,7 @@
 		}
 	},
 	"39207" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12069,7 +12069,7 @@
 		}
 	},
 	"39208" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12087,7 +12087,7 @@
 		}
 	},
 	"39209" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : [
@@ -12110,7 +12110,7 @@
 		}
 	},
 	"39210" : {
-		"recast" : 16.0,
+		"recast" : 12.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12128,7 +12128,7 @@
 		}
 	},
 	"39211" : {
-		"recast" : 24.0,
+		"recast" : 20.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12164,7 +12164,7 @@
 		}
 	},
 	"41430" : {
-		"recast" : 20.0,
+		"recast" : 24.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12254,7 +12254,7 @@
 		}
 	},
 	"41451" : {
-		"recast" : 20.0,
+		"recast" : 24.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12272,7 +12272,7 @@
 		}
 	},
 	"41464" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 4,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12290,7 +12290,7 @@
 		}
 	},
 	"41465" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 4,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12308,7 +12308,7 @@
 		}
 	},
 	"41466" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 4,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12326,7 +12326,7 @@
 		}
 	},
 	"41469" : {
-		"recast" : 40.0,
+		"recast" : 30.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12398,7 +12398,7 @@
 		}
 	},
 	"41483" : {
-		"recast" : 12.0,
+		"recast" : 10.0,
 		"charges" : 2,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12596,7 +12596,7 @@
 		}
 	},
 	"41506" : {
-		"recast" : 20.0,
+		"recast" : 24.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12614,7 +12614,7 @@
 		}
 	},
 	"41509" : {
-		"recast" : 20.0,
+		"recast" : 16.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12632,7 +12632,7 @@
 		}
 	},
 	"41510" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 0,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12668,7 +12668,7 @@
 		}
 	},
 	"41964" : {
-		"recast" : 16.0,
+		"recast" : 15.0,
 		"charges" : 4,
 		"level_recasts" : null,
 		"level_charges" : null,
@@ -12682,6 +12682,303 @@
 				"de" : "Harmonischer Pfeil (PVP)",
 				"fr" : "Flèche harmonique (PVP)",
 				"jp" : "ハーモニックアロー (PVP)"
+			}
+		}
+	},
+	"43243" : {
+		"recast" : 45.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"PLD",
+			"WAR",
+			"DRK",
+			"GNB"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Rampage (PVP)",
+				"de" : "Amok (PVP)",
+				"fr" : "Ravage (PVP)",
+				"jp" : "ランページ (PVP)"
+			}
+		}
+	},
+	"43244" : {
+		"recast" : 60.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"PLD",
+			"WAR",
+			"DRK",
+			"GNB"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Rampart (PVP)",
+				"de" : "Schutzwall (PVP)",
+				"fr" : "Rempart (PVP)",
+				"jp" : "ランパート (PVP)"
+			}
+		}
+	},
+	"43245" : {
+		"recast" : 30.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"PLD",
+			"WAR",
+			"DRK",
+			"GNB"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Full Swing (PVP)",
+				"de" : "Voller Schwinger (PVP)",
+				"fr" : "Plein élan (PVP)",
+				"jp" : "フルスイング (PVP)"
+			}
+		}
+	},
+	"43246" : {
+		"recast" : 45.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"MNK",
+			"DRG",
+			"NIN",
+			"SAM",
+			"RPR",
+			"VPR"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Bloodbath (PVP)",
+				"de" : "Blutbad (PVP)",
+				"fr" : "Bain de sang (PVP)",
+				"jp" : "ブラッドバス (PVP)"
+			}
+		}
+	},
+	"43247" : {
+		"recast" : 30.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"MNK",
+			"DRG",
+			"NIN",
+			"SAM",
+			"RPR",
+			"VPR"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Swift (PVP)",
+				"de" : "Eile (PVP)",
+				"fr" : "Vélocité (PVP)",
+				"jp" : "スウィフト (PVP)"
+			}
+		}
+	},
+	"43248" : {
+		"recast" : 15.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"MNK",
+			"DRG",
+			"NIN",
+			"SAM",
+			"RPR",
+			"VPR"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Smite (PVP)",
+				"de" : "Zerschlagung (PVP)",
+				"fr" : "Châtiment (PVP)",
+				"jp" : "スマイト (PVP)"
+			}
+		}
+	},
+	"43249" : {
+		"recast" : 45.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BRD",
+			"MCH",
+			"DNC"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Dervish (PVP)",
+				"de" : "Derwisch (PVP)",
+				"fr" : "Célérité extrême (PVP)",
+				"jp" : "スピードスター (PVP)"
+			}
+		}
+	},
+	"43250" : {
+		"recast" : 30.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BRD",
+			"MCH",
+			"DNC"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Bravery (PVP)",
+				"de" : "Courage (PVP)",
+				"fr" : "Courage (PVP)",
+				"jp" : "ブレイブ (PVP)"
+			}
+		}
+	},
+	"43251" : {
+		"recast" : 15.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BRD",
+			"MCH",
+			"DNC"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Eagle Eye Shot (PVP)",
+				"de" : "Adlerauge (PVP)",
+				"fr" : "Œil d'aigle (PVP)",
+				"jp" : "イーグルアイ (PVP)"
+			}
+		}
+	},
+	"43252" : {
+		"recast" : 45.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BLM",
+			"SMN",
+			"RDM",
+			"PCT"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Comet (PVP)",
+				"de" : "Komet (PVP)",
+				"fr" : "Comète (PVP)",
+				"jp" : "コメット (PVP)"
+			}
+		}
+	},
+	"43254" : {
+		"recast" : 30.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BLM",
+			"SMN",
+			"RDM",
+			"PCT"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Rust (PVP)",
+				"de" : "Stumpfe Klinge (PVP)",
+				"fr" : "Émoussement (PVP)",
+				"jp" : "ダルウェポン (PVP)"
+			}
+		}
+	},
+	"43256" : {
+		"recast" : 30.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"WHM",
+			"SCH",
+			"AST",
+			"SGE"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Stoneskin II (PVP)",
+				"de" : "Steinrahaut (PVP)",
+				"fr" : "Extra Cuirasse (PVP)",
+				"jp" : "ストンラスキン (PVP)"
+			}
+		}
+	},
+	"43257" : {
+		"recast" : 45.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"WHM",
+			"SCH",
+			"AST",
+			"SGE"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Diabrosis (PVP)",
+				"de" : "Diablose (PVP)",
+				"fr" : "Diabrosis (PVP)",
+				"jp" : "ディアブロシス (PVP)"
+			}
+		}
+	},
+	"43291" : {
+		"recast" : 15.0,
+		"charges" : 0,
+		"level_recasts" : null,
+		"level_charges" : null,
+		"jobs" : [
+			"BLM",
+			"SMN",
+			"RDM",
+			"PCT"
+		],
+		"pvp" : true,
+		"locales" : {
+			"name" : {
+				"en" : "Phantom Dart (PVP)",
+				"de" : "Phantompfeil (PVP)",
+				"fr" : "Projectile fantôme (PVP)",
+				"jp" : "ファントムダート (PVP)"
 			}
 		}
 	}

@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.9.7
+
+**Released: 2025-04-03**
+
+### Bug Fixes
+- N/A
+
+### Features
+- N/A
+
+### UI Changes
+- N/A
+
+### Code Changes
+- N/A
+
+### Miscellaneous
+- Updated game data through FFXIV patch 7.2
+
 ## 1.9.6
 
 **Released: 2024-11-12**

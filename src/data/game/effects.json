@@ -195,20 +195,6 @@
 			}
 		}
 	},
-	"16" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"17" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -4937,20 +4923,6 @@
 			}
 		}
 	},
-	"363" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"364" : {
 		"type" : "effect",
 		"dot" : false,
@@ -5188,20 +5160,6 @@
 				"de" : "Schwert-Eid",
 				"fr" : "Serment de l'épée",
 				"jp" : "忠義の剣"
-			}
-		}
-	},
-	"382" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -6725,20 +6683,6 @@
 			}
 		}
 	},
-	"499" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"500" : {
 		"type" : "effect",
 		"dot" : false,
@@ -7879,34 +7823,6 @@
 			}
 		}
 	},
-	"598" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "(仮)物理シールド(ストンスキン)",
-				"de" : "(仮)物理シールド(ストンスキン)",
-				"fr" : "(仮)物理シールド(ストンスキン)",
-				"jp" : "(仮)物理シールド(ストンスキン)"
-			}
-		}
-	},
-	"599" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "(仮)魔法シールド(ストンスキン)",
-				"de" : "(仮)魔法シールド(ストンスキン)",
-				"fr" : "(仮)魔法シールド(ストンスキン)",
-				"jp" : "(仮)魔法シールド(ストンスキン)"
-			}
-		}
-	},
 	"600" : {
 		"type" : "effect",
 		"dot" : false,
@@ -8772,20 +8688,6 @@
 				"de" : "Schrumpfstaub",
 				"fr" : "Nanoparticules",
 				"jp" : "圧縮粒子"
-			}
-		}
-	},
-	"675" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -9971,34 +9873,6 @@
 			}
 		}
 	},
-	"771" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"772" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"773" : {
 		"type" : "effect",
 		"dot" : false,
@@ -10610,20 +10484,6 @@
 				"de" : "Schlagresistenz -",
 				"fr" : "Résistance au contondant réduite",
 				"jp" : "打属性耐性低下"
-			}
-		}
-	},
-	"824" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -11317,76 +11177,6 @@
 			}
 		}
 	},
-	"872" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"873" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"874" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"875" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"876" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"877" : {
 		"type" : "effect",
 		"dot" : false,
@@ -11440,174 +11230,6 @@
 				"de" : "Trällern",
 				"fr" : "Siffler en travaillant",
 				"jp" : "仕事唄"
-			}
-		}
-	},
-	"881" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"882" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"883" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"884" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"885" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"886" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"887" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"888" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"889" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"890" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"891" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"892" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -12140,34 +11762,6 @@
 				"de" : "Erhöhte physische Verwundbarkeit",
 				"fr" : "Vulnérabilité physique augmentée",
 				"jp" : "被物理ダメージ増加"
-			}
-		}
-	},
-	"935" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"936" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -15789,34 +15383,6 @@
 			}
 		}
 	},
-	"1245" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"1246" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"1247" : {
 		"type" : "effect",
 		"dot" : false,
@@ -15979,20 +15545,6 @@
 				"de" : "Alt",
 				"fr" : "Vieillissement",
 				"jp" : "オールド"
-			}
-		}
-	},
-	"1261" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -18212,20 +17764,6 @@
 			}
 		}
 	},
-	"1428" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "削除予定",
-				"de" : "削除予定",
-				"fr" : "削除予定",
-				"jp" : "削除予定"
-			}
-		}
-	},
 	"1430" : {
 		"type" : "effect",
 		"dot" : false,
@@ -19202,20 +18740,6 @@
 			}
 		}
 	},
-	"1514" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "スリル・オブ・ウォー：効果",
-				"de" : "スリル・オブ・ウォー：効果",
-				"fr" : "スリル・オブ・ウォー：効果",
-				"jp" : "スリル・オブ・ウォー：効果"
-			}
-		}
-	},
 	"1515" : {
 		"type" : "effect",
 		"dot" : false,
@@ -19902,20 +19426,6 @@
 			}
 		}
 	},
-	"1574" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"1575" : {
 		"type" : "effect",
 		"dot" : false,
@@ -19927,20 +19437,6 @@
 				"de" : "Brüderliche Bande",
 				"fr" : "Amour fraternel",
 				"jp" : "兄弟の絆"
-			}
-		}
-	},
-	"1576" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "石化の呪い",
-				"de" : "石化の呪い",
-				"fr" : "石化の呪い",
-				"jp" : "石化の呪い"
 			}
 		}
 	},
@@ -21229,20 +20725,6 @@
 				"de" : "Logos-Blutbad",
 				"fr" : "Évocation Logos: Bain de sang",
 				"jp" : "ロゴス・ブラッドバス"
-			}
-		}
-	},
-	"1678" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -22548,20 +22030,6 @@
 			}
 		}
 	},
-	"1780" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "魔力汚染",
-				"de" : "Magieverschmutzung",
-				"fr" : "Contamination magique",
-				"jp" : "魔力汚染"
-			}
-		}
-	},
 	"1781" : {
 		"type" : "effect",
 		"dot" : false,
@@ -23415,20 +22883,6 @@
 				"de" : "Steinernes Herz",
 				"fr" : "Cœur de pierre",
 				"jp" : "ハート・オブ・ストーン"
-			}
-		}
-	},
-	"1841" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -24696,20 +24150,6 @@
 			}
 		}
 	},
-	"1930" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"1931" : {
 		"type" : "effect",
 		"dot" : false,
@@ -25054,20 +24494,6 @@
 			}
 		}
 	},
-	"1957" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"1958" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -25326,34 +24752,6 @@
 			}
 		}
 	},
-	"1979" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "アルティメイタム",
-				"de" : "アルティメイタム",
-				"fr" : "アルティメイタム",
-				"jp" : "アルティメイタム"
-			}
-		}
-	},
-	"1980" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "アルティメイタム[被]",
-				"de" : "アルティメイタム[被]",
-				"fr" : "アルティメイタム[被]",
-				"jp" : "アルティメイタム[被]"
-			}
-		}
-	},
 	"1981" : {
 		"type" : "effect",
 		"dot" : false,
@@ -25582,34 +24980,6 @@
 			}
 		}
 	},
-	"1994" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ブラッドスピラー",
-				"de" : "ブラッドスピラー",
-				"fr" : "ブラッドスピラー",
-				"jp" : "ブラッドスピラー"
-			}
-		}
-	},
-	"1995" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "クワイタス",
-				"de" : "クワイタス",
-				"fr" : "クワイタス",
-				"jp" : "クワイタス"
-			}
-		}
-	},
 	"1996" : {
 		"type" : "effect",
 		"dot" : false,
@@ -25642,34 +25012,6 @@
 			}
 		}
 	},
-	"1998" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "バーストストライク",
-				"de" : "バーストストライク",
-				"fr" : "バーストストライク",
-				"jp" : "バーストストライク"
-			}
-		}
-	},
-	"1999" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "フェイテッドサークル",
-				"de" : "フェイテッドサークル",
-				"fr" : "フェイテッドサークル",
-				"jp" : "フェイテッドサークル"
-			}
-		}
-	},
 	"2000" : {
 		"type" : "effect",
 		"dot" : false,
@@ -25683,20 +25025,6 @@
 				"de" : "Wackeres Herz",
 				"fr" : "Cœur de Lumière",
 				"jp" : "ハート・オブ・ライト"
-			}
-		}
-	},
-	"2001" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "無敵",
-				"de" : "無敵",
-				"fr" : "無敵",
-				"jp" : "無敵"
 			}
 		}
 	},
@@ -25916,20 +25244,6 @@
 			}
 		}
 	},
-	"2016" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ホーリースピリット効果アップ",
-				"de" : "ホーリースピリット効果アップ",
-				"fr" : "ホーリースピリット効果アップ",
-				"jp" : "ホーリースピリット効果アップ"
-			}
-		}
-	},
 	"2017" : {
 		"type" : "effect",
 		"dot" : false,
@@ -26098,20 +25412,6 @@
 			}
 		}
 	},
-	"2028" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "三連魔",
-				"de" : "三連魔",
-				"fr" : "三連魔",
-				"jp" : "三連魔"
-			}
-		}
-	},
 	"2029" : {
 		"type" : "dot",
 		"dot" : true,
@@ -26139,34 +25439,6 @@
 				"de" : "Schwingen der Unsterblichkeit",
 				"fr" : "Vol éternel",
 				"jp" : "不死鳥の翼"
-			}
-		}
-	},
-	"2031" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ヴァルエアロ",
-				"de" : "ヴァルエアロ",
-				"fr" : "ヴァルエアロ",
-				"jp" : "ヴァルエアロ"
-			}
-		}
-	},
-	"2032" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ヴァルサンダー",
-				"de" : "ヴァルサンダー",
-				"fr" : "ヴァルサンダー",
-				"jp" : "ヴァルサンダー"
 			}
 		}
 	},
@@ -26348,34 +25620,6 @@
 			}
 		}
 	},
-	"2045" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "シャーク",
-				"de" : "シャーク",
-				"fr" : "シャーク",
-				"jp" : "シャーク"
-			}
-		}
-	},
-	"2046" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "シャーク[被]",
-				"de" : "シャーク[被]",
-				"fr" : "シャーク[被]",
-				"jp" : "シャーク[被]"
-			}
-		}
-	},
 	"2047" : {
 		"type" : "effect",
 		"dot" : false,
@@ -26505,76 +25749,6 @@
 				"de" : "Gezogen: Königin der Kronen",
 				"fr" : "Voie de la reine",
 				"jp" : "ドロー：クラウンレディ"
-			}
-		}
-	},
-	"2056" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2057" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2058" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2059" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2060" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -27233,20 +26407,6 @@
 			}
 		}
 	},
-	"2107" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2108" : {
 		"type" : "effect",
 		"dot" : false,
@@ -27879,20 +27039,6 @@
 			}
 		}
 	},
-	"2160" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2161" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -27960,20 +27106,6 @@
 				"de" : "Magitek-Feld",
 				"fr" : "Champ de force magitek",
 				"jp" : "魔導フィールド"
-			}
-		}
-	},
-	"2167" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -28368,34 +27500,6 @@
 			}
 		}
 	},
-	"2193" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2195" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2196" : {
 		"type" : "effect",
 		"dot" : false,
@@ -28741,20 +27845,6 @@
 				"de" : "Statische Ladung",
 				"fr" : "Charge électrique",
 				"jp" : "蓄電"
-			}
-		}
-	},
-	"2230" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "パニック",
-				"de" : "パニック",
-				"fr" : "パニック",
-				"jp" : "パニック"
 			}
 		}
 	},
@@ -29248,34 +28338,6 @@
 			}
 		}
 	},
-	"2272" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "Panik",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2273" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2275" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -29329,20 +28391,6 @@
 				"de" : "Lichtresistenz -",
 				"fr" : "Résistance à la Lumière réduite",
 				"jp" : "光属性耐性低下"
-			}
-		}
-	},
-	"2279" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -30386,20 +29434,6 @@
 			}
 		}
 	},
-	"2366" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2367" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -30694,20 +29728,6 @@
 			}
 		}
 	},
-	"2393" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2394" : {
 		"type" : "effect",
 		"dot" : false,
@@ -30733,34 +29753,6 @@
 				"de" : "Verringerte Verwundbarkeit",
 				"fr" : "Vulnérabilité diminuée",
 				"jp" : "被ダメージ低下"
-			}
-		}
-	},
-	"2397" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2400" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "孤独感",
-				"de" : "孤独感",
-				"fr" : "孤独感",
-				"jp" : "孤独感"
 			}
 		}
 	},
@@ -30931,20 +29923,6 @@
 				"de" : "Unzähmbares Licht",
 				"fr" : "Lumière salvatrice+",
 				"jp" : "光の解放［強］"
-			}
-		}
-	},
-	"2417" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -31186,20 +30164,6 @@
 			}
 		}
 	},
-	"2442" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ロスト・ウェポンブレイク",
-				"de" : "Verschollenes Zerlegen",
-				"fr" : "ロスト・ウェポンブレイク",
-				"jp" : "ロスト・ウェポンブレイク"
-			}
-		}
-	},
 	"2443" : {
 		"type" : "effect",
 		"dot" : false,
@@ -31379,48 +30343,6 @@
 				"de" : "Verzögerung: Schattenauge",
 				"fr" : "Sort déphasé: Œil de l'ombre",
 				"jp" : "ディレイスペル：シャドウアイ"
-			}
-		}
-	},
-	"2457" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2458" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2459" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -32100,20 +31022,6 @@
 			}
 		}
 	},
-	"2515" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2516" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -32195,34 +31103,6 @@
 				"de" : "Segen der alten Königin",
 				"fr" : "Bénédiction des Reines",
 				"jp" : "古代女王の加護"
-			}
-		}
-	},
-	"2525" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2526" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -32310,20 +31190,6 @@
 			}
 		}
 	},
-	"2536" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2537" : {
 		"type" : "effect",
 		"dot" : false,
@@ -32380,34 +31246,6 @@
 			}
 		}
 	},
-	"2541" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "不浄の侵食",
-				"de" : "不浄の侵食",
-				"fr" : "不浄の侵食",
-				"jp" : "不浄の侵食"
-			}
-		}
-	},
-	"2542" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "不浄の恐怖",
-				"de" : "不浄の恐怖",
-				"fr" : "不浄の恐怖",
-				"jp" : "不浄の恐怖"
-			}
-		}
-	},
 	"2543" : {
 		"type" : "effect",
 		"dot" : false,
@@ -32422,20 +31260,6 @@
 			}
 		}
 	},
-	"2544" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2545" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -32447,20 +31271,6 @@
 				"de" : "Schlachtbefehl",
 				"fr" : "Gant relevé",
 				"jp" : "決闘指名"
-			}
-		}
-	},
-	"2546" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -32517,20 +31327,6 @@
 				"de" : "Schaden +",
 				"fr" : "Bonus de dégâts",
 				"jp" : "ダメージ上昇"
-			}
-		}
-	},
-	"2552" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -33630,34 +32426,6 @@
 			}
 		}
 	},
-	"2629" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2630" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2632" : {
 		"type" : "effect",
 		"dot" : false,
@@ -34027,20 +32795,6 @@
 				"de" : "Tiefkühlung",
 				"fr" : "Congélation",
 				"jp" : "氷結"
-			}
-		}
-	},
-	"2659" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -35062,20 +33816,6 @@
 			}
 		}
 	},
-	"2728" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2729" : {
 		"type" : "effect",
 		"dot" : false,
@@ -35283,20 +34023,6 @@
 				"de" : "Drachenreiter",
 				"fr" : "Cœur d'homme",
 				"jp" : "竜人形態"
-			}
-		}
-	},
-	"2747" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -35526,20 +34252,6 @@
 			}
 		}
 	},
-	"2766" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2768" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -35694,20 +34406,6 @@
 			}
 		}
 	},
-	"2782" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2783" : {
 		"type" : "effect",
 		"dot" : false,
@@ -35719,34 +34417,6 @@
 				"de" : "Breitseite",
 				"fr" : "Pupilles dilatées",
 				"jp" : "選魚眼"
-			}
-		}
-	},
-	"2784" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ホールドブレス",
-				"de" : "Atemtechnik",
-				"fr" : "Apnée",
-				"jp" : "ホールドブレス"
-			}
-		}
-	},
-	"2785" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -36100,90 +34770,6 @@
 			}
 		}
 	},
-	"2811" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "反転プログラム",
-				"de" : "反転プログラム",
-				"fr" : "反転プログラム",
-				"jp" : "反転プログラム"
-			}
-		}
-	},
-	"2812" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2813" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2814" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2815" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2816" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2817" : {
 		"type" : "effect",
 		"dot" : false,
@@ -36265,20 +34851,6 @@
 				"de" : "Widerspenstig",
 				"fr" : "Côté lunatique",
 				"jp" : "あまのじゃく"
-			}
-		}
-	},
-	"2823" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -36535,34 +35107,6 @@
 				"de" : "Schnelle Harpe",
 				"fr" : "Harpé améliorée",
 				"jp" : "ハルパー効果アップ"
-			}
-		}
-	},
-	"2849" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2850" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -37000,20 +35544,6 @@
 			}
 		}
 	},
-	"2881" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2885" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -37109,34 +35639,6 @@
 				"de" : "Speergespür",
 				"fr" : "Instinct du harponneur",
 				"jp" : "銛師の直感"
-			}
-		}
-	},
-	"2892" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2894" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -37462,34 +35964,6 @@
 			}
 		}
 	},
-	"2930" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2931" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2932" : {
 		"type" : "effect",
 		"dot" : false,
@@ -37515,20 +35989,6 @@
 				"de" : "In Ereignis",
 				"fr" : "Événement",
 				"jp" : "イベント中"
-			}
-		}
-	},
-	"2934" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●強制稼働",
-				"de" : "●強制稼働",
-				"fr" : "●強制稼働",
-				"jp" : "●強制稼働"
 			}
 		}
 	},
@@ -37826,20 +36286,6 @@
 			}
 		}
 	},
-	"2956" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "精霊の加護",
-				"de" : "精霊の加護",
-				"fr" : "精霊の加護",
-				"jp" : "精霊の加護"
-			}
-		}
-	},
 	"2957" : {
 		"type" : "effect",
 		"dot" : false,
@@ -37998,20 +36444,6 @@
 			}
 		}
 	},
-	"2970" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"2971" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -38109,132 +36541,6 @@
 				"de" : "Heilung -",
 				"fr" : "Soins diminués",
 				"jp" : "被回復低下"
-			}
-		}
-	},
-	"2979" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2980" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2981" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2982" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2984" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2985" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2986" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2987" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"2988" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -38551,20 +36857,6 @@
 			}
 		}
 	},
-	"3016" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3017" : {
 		"type" : "effect",
 		"dot" : false,
@@ -38713,20 +37005,6 @@
 			}
 		}
 	},
-	"3027" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●ホーリー・シェルトロン：追撃",
-				"de" : "●ホーリー・シェルトロン：追撃",
-				"fr" : "●ホーリー・シェルトロン：追撃",
-				"jp" : "●ホーリー・シェルトロン：追撃"
-			}
-		}
-	},
 	"3028" : {
 		"type" : "effect",
 		"dot" : false,
@@ -38789,20 +37067,6 @@
 			}
 		}
 	},
-	"3032" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●プライマルレンド実行可",
-				"de" : "●プライマルレンド実行可",
-				"fr" : "●プライマルレンド実行可",
-				"jp" : "●プライマルレンド実行可"
-			}
-		}
-	},
 	"3033" : {
 		"type" : "effect",
 		"dot" : false,
@@ -38830,20 +37094,6 @@
 				"de" : "Dunkle Künste",
 				"fr" : "Arts ténébreux",
 				"jp" : "ダークアーツ"
-			}
-		}
-	},
-	"3035" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●プランジカット",
-				"de" : "●プランジカット",
-				"fr" : "●プランジカット",
-				"jp" : "●プランジカット"
 			}
 		}
 	},
@@ -38904,20 +37154,6 @@
 				"de" : "Untote Erlösung",
 				"fr" : "Rédemption du survivant",
 				"jp" : "アンデッド・リデンプション"
-			}
-		}
-	},
-	"3040" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●ブラッドウェポン",
-				"de" : "●ブラッドウェポン",
-				"fr" : "●ブラッドウェポン",
-				"jp" : "●ブラッドウェポン"
 			}
 		}
 	},
@@ -39375,20 +37611,6 @@
 			}
 		}
 	},
-	"3084" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●女神の加護",
-				"de" : "●女神の加護",
-				"fr" : "●女神の加護",
-				"jp" : "●女神の加護"
-			}
-		}
-	},
 	"3085" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -39791,20 +38013,6 @@
 			}
 		}
 	},
-	"3112" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●ゾーエ",
-				"de" : "●ゾーエ",
-				"fr" : "●ゾーエ",
-				"jp" : "●ゾーエ"
-			}
-		}
-	},
 	"3113" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -39816,20 +38024,6 @@
 				"de" : "Toxikon",
 				"fr" : "Toxikon",
 				"jp" : "トキシコン"
-			}
-		}
-	},
-	"3114" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●トキシコンII",
-				"de" : "●トキシコンII",
-				"fr" : "●トキシコンII",
-				"jp" : "●トキシコンII"
 			}
 		}
 	},
@@ -39846,34 +38040,6 @@
 				"de" : "Komplexion",
 				"fr" : "Croc de vipère",
 				"jp" : "アダースティング"
-			}
-		}
-	},
-	"3116" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "カルディア",
-				"de" : "カルディア",
-				"fr" : "カルディア",
-				"jp" : "カルディア"
-			}
-		}
-	},
-	"3117" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "カルディア[被]",
-				"de" : "カルディア[被]",
-				"fr" : "カルディア[被]",
-				"jp" : "カルディア[被]"
 			}
 		}
 	},
@@ -40214,34 +38380,6 @@
 				"de" : "Heroische Fantasie",
 				"fr" : "Fantaisie orchestrale",
 				"jp" : "英雄のファンタジア［被］"
-			}
-		}
-	},
-	"3146" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "英雄のファンタジア［戦］",
-				"de" : "英雄のファンタジア［戦］",
-				"fr" : "英雄のファンタジア［戦］",
-				"jp" : "英雄のファンタジア［戦］"
-			}
-		}
-	},
-	"3147" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "英雄のファンタジア［魔］",
-				"de" : "英雄のファンタジア［魔］",
-				"fr" : "英雄のファンタジア［魔］",
-				"jp" : "英雄のファンタジア［魔］"
 			}
 		}
 	},
@@ -40629,20 +38767,6 @@
 			}
 		}
 	},
-	"3175" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "メテオドライヴ",
-				"de" : "メテオドライヴ",
-				"fr" : "メテオドライヴ",
-				"jp" : "メテオドライヴ"
-			}
-		}
-	},
 	"3176" : {
 		"type" : "effect",
 		"dot" : false,
@@ -40726,20 +38850,6 @@
 				"de" : "Himmelsbrecher",
 				"fr" : "Briseur des cieux",
 				"jp" : "スカイシャッター"
-			}
-		}
-	},
-	"3182" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●ぶんどる：自身",
-				"de" : "●ぶんどる：自身",
-				"fr" : "●ぶんどる：自身",
-				"jp" : "●ぶんどる：自身"
 			}
 		}
 	},
@@ -40847,20 +38957,6 @@
 				"de" : "Meisui",
 				"fr" : "Meisui",
 				"jp" : "命水"
-			}
-		}
-	},
-	"3190" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "星遁天誅",
-				"de" : "星遁天誅",
-				"fr" : "星遁天誅",
-				"jp" : "星遁天誅"
 			}
 		}
 	},
@@ -41537,20 +39633,6 @@
 			}
 		}
 	},
-	"3244" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●デプラスマン実行可",
-				"de" : "●デプラスマン実行可",
-				"fr" : "●デプラスマン実行可",
-				"jp" : "●デプラスマン実行可"
-			}
-		}
-	},
 	"3245" : {
 		"type" : "effect",
 		"dot" : false,
@@ -41576,20 +39658,6 @@
 				"de" : "Schwarze Gabe",
 				"fr" : "Transfert noir",
 				"jp" : "シフトブラック"
-			}
-		}
-	},
-	"3247" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●ポーション",
-				"de" : "●ポーション",
-				"fr" : "●ポーション",
-				"jp" : "●ポーション"
 			}
 		}
 	},
@@ -41756,34 +39824,6 @@
 				"de" : "Hochschleudern",
 				"fr" : "Décollage",
 				"jp" : "ノックアップ"
-			}
-		}
-	},
-	"3263" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3264" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -42965,48 +41005,6 @@
 			}
 		}
 	},
-	"3355" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3356" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3357" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3358" : {
 		"type" : "effect",
 		"dot" : false,
@@ -43147,48 +41145,6 @@
 			}
 		}
 	},
-	"3369" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3370" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3371" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3372" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -43200,76 +41156,6 @@
 				"de" : "Erdresistenz - (stark)",
 				"fr" : "Résistance à la terre réduite+",
 				"jp" : "土属性耐性低下［強］"
-			}
-		}
-	},
-	"3373" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3374" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3375" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3376" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3377" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -43654,20 +41540,6 @@
 				"de" : "Betäubung",
 				"fr" : "Étourdissement",
 				"jp" : "スタン"
-			}
-		}
-	},
-	"3409" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -44091,20 +41963,6 @@
 			}
 		}
 	},
-	"3445" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3446" : {
 		"type" : "effect",
 		"dot" : false,
@@ -44497,20 +42355,6 @@
 			}
 		}
 	},
-	"3478" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3479" : {
 		"type" : "dot",
 		"dot" : true,
@@ -44550,20 +42394,6 @@
 				"de" : "Tiefkühlung",
 				"fr" : "Congélation",
 				"jp" : "氷結"
-			}
-		}
-	},
-	"3482" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -44931,20 +42761,6 @@
 			}
 		}
 	},
-	"3514" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3515" : {
 		"type" : "effect",
 		"dot" : false,
@@ -44970,20 +42786,6 @@
 				"de" : "Erhöhte Magie-Verwundbarkeit",
 				"fr" : "Vulnérabilité magique augmentée",
 				"jp" : "被魔法ダメージ増加"
-			}
-		}
-	},
-	"3517" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -45155,20 +42957,6 @@
 			}
 		}
 	},
-	"3531" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3532" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -45180,20 +42968,6 @@
 				"de" : "Magische Zahl",
 				"fr" : "Nombre magique",
 				"jp" : "マジックナンバー"
-			}
-		}
-	},
-	"3533" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -45449,20 +43223,6 @@
 			}
 		}
 	},
-	"3558" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3559" : {
 		"type" : "dot",
 		"dot" : true,
@@ -45617,20 +43377,6 @@
 			}
 		}
 	},
-	"3572" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3573" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -45656,20 +43402,6 @@
 				"de" : "Schattenklinge",
 				"fr" : "Lame obscure",
 				"jp" : "黒竜剣"
-			}
-		}
-	},
-	"3575" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -45922,20 +43654,6 @@
 				"de" : "Kräftigender Schluck",
 				"fr" : "Esprits spiritueux",
 				"jp" : "般若湯"
-			}
-		}
-	},
-	"3596" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "爆身変化",
-				"de" : "Explosive Verwandlung",
-				"fr" : "爆身変化",
-				"jp" : "爆身変化"
 			}
 		}
 	},
@@ -46389,20 +44107,6 @@
 			}
 		}
 	},
-	"3630" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3631" : {
 		"type" : "effect",
 		"dot" : false,
@@ -46414,62 +44118,6 @@
 				"de" : "Skiltron",
 				"fr" : "Sheltron",
 				"jp" : "スキルトロン"
-			}
-		}
-	},
-	"3632" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●必滅の炎",
-				"de" : "●必滅の炎",
-				"fr" : "Sheltron",
-				"jp" : "●必滅の炎"
-			}
-		}
-	},
-	"3633" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "マジカルブレス：雷",
-				"de" : "Zauberatem: Blitz",
-				"fr" : "マジカルブレス：雷",
-				"jp" : "マジカルブレス：雷"
-			}
-		}
-	},
-	"3634" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "マジカルブレス：氷",
-				"de" : "Zauberatem: Eis",
-				"fr" : "マジカルブレス：氷",
-				"jp" : "マジカルブレス：氷"
-			}
-		}
-	},
-	"3635" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "マジカルブレス：火",
-				"de" : "Zauberatem: Feuer",
-				"fr" : "マジカルブレス：火",
-				"jp" : "マジカルブレス：火"
 			}
 		}
 	},
@@ -46681,90 +44329,6 @@
 			}
 		}
 	},
-	"3651" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3652" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3653" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3654" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3655" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3656" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3657" : {
 		"type" : "effect",
 		"dot" : false,
@@ -46824,62 +44388,6 @@
 				"de" : "Instinkt der Grube",
 				"fr" : "Pivot frénétique",
 				"jp" : "双鋭牙【乱閃】"
-			}
-		}
-	},
-	"3661" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3662" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3663" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3664" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -47067,34 +44575,6 @@
 			}
 		}
 	},
-	"3677" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3678" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3679" : {
 		"type" : "effect",
 		"dot" : false,
@@ -47138,20 +44618,6 @@
 				"de" : "Sternenfunkeln",
 				"fr" : "Prisme d'étoiles préparé",
 				"jp" : "スタープリズム実行可"
-			}
-		}
-	},
-	"3682" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -47471,20 +44937,6 @@
 			}
 		}
 	},
-	"3711" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3712" : {
 		"type" : "dot",
 		"dot" : true,
@@ -47695,20 +45147,6 @@
 			}
 		}
 	},
-	"3738" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3739" : {
 		"type" : "effect",
 		"dot" : false,
@@ -47779,20 +45217,6 @@
 			}
 		}
 	},
-	"3745" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3747" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -47818,20 +45242,6 @@
 				"de" : "Ziel von Hydro-Kugel",
 				"fr" : "Cible de barillet hydrique",
 				"jp" : "ターゲッティング：ハイドロバレット"
-			}
-		}
-	},
-	"3750" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "拘束",
-				"de" : "拘束",
-				"fr" : "拘束",
-				"jp" : "拘束"
 			}
 		}
 	},
@@ -48045,20 +45455,6 @@
 			}
 		}
 	},
-	"3769" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3770" : {
 		"type" : "effect",
 		"dot" : false,
@@ -48101,48 +45497,6 @@
 			}
 		}
 	},
-	"3773" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3774" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3775" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3776" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -48182,20 +45536,6 @@
 				"de" : "Stromschlag",
 				"fr" : "Électrocution",
 				"jp" : "感電"
-			}
-		}
-	},
-	"3781" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -48255,20 +45595,6 @@
 			}
 		}
 	},
-	"3787" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3788" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -48294,20 +45620,6 @@
 				"de" : "Geschwindigkeit +",
 				"fr" : "Vitesse de déplacement accrue",
 				"jp" : "移動速度上昇"
-			}
-		}
-	},
-	"3792" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -48392,20 +45704,6 @@
 				"de" : "Gabelblitz",
 				"fr" : "Éclair ramifié",
 				"jp" : "フォークライトニング"
-			}
-		}
-	},
-	"3800" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -48590,20 +45888,6 @@
 				"de" : "Raumkontrolle",
 				"fr" : "Soumission absolue: pétrification",
 				"jp" : "空間掌握：石光"
-			}
-		}
-	},
-	"3816" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -50073,20 +47357,6 @@
 			}
 		}
 	},
-	"3913" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3914" : {
 		"type" : "effect",
 		"dot" : false,
@@ -50140,62 +47410,6 @@
 				"de" : "Darbietung",
 				"fr" : "Sacrifice d'amour",
 				"jp" : "献上"
-			}
-		}
-	},
-	"3927" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ナーヴトキシン：前",
-				"de" : "ナーヴトキシン：前",
-				"fr" : "ナーヴトキシン：前",
-				"jp" : "ナーヴトキシン：前"
-			}
-		}
-	},
-	"3928" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ナーヴトキシン：後",
-				"de" : "ナーヴトキシン：後",
-				"fr" : "ナーヴトキシン：後",
-				"jp" : "ナーヴトキシン：後"
-			}
-		}
-	},
-	"3929" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ナーヴトキシン：左",
-				"de" : "ナーヴトキシン：左",
-				"fr" : "ナーヴトキシン：左",
-				"jp" : "ナーヴトキシン：左"
-			}
-		}
-	},
-	"3930" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ナーヴトキシン：右",
-				"de" : "ナーヴトキシン：右",
-				"fr" : "ナーヴトキシン：右",
-				"jp" : "ナーヴトキシン：右"
 			}
 		}
 	},
@@ -50339,34 +47553,6 @@
 			}
 		}
 	},
-	"3942" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3943" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"3945" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -50392,20 +47578,6 @@
 				"de" : "Wille Turals",
 				"fr" : "Détermination turalienne",
 				"jp" : "トラルの意地"
-			}
-		}
-	},
-	"3947" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -50630,34 +47802,6 @@
 				"de" : "Optische Täuschung",
 				"fr" : "Illusion d'optique",
 				"jp" : "幻覚：錯視"
-			}
-		}
-	},
-	"3970" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"3971" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -50903,90 +48047,6 @@
 			}
 		}
 	},
-	"3990" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[1]",
-				"de" : "ドロー[1]",
-				"fr" : "ドロー[1]",
-				"jp" : "ドロー[1]"
-			}
-		}
-	},
-	"3991" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[2]",
-				"de" : "ドロー[2]",
-				"fr" : "ドロー[2]",
-				"jp" : "ドロー[2]"
-			}
-		}
-	},
-	"3992" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[3]",
-				"de" : "ドロー[3]",
-				"fr" : "ドロー[3]",
-				"jp" : "ドロー[3]"
-			}
-		}
-	},
-	"3993" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[4]",
-				"de" : "ドロー[4]",
-				"fr" : "ドロー[4]",
-				"jp" : "ドロー[4]"
-			}
-		}
-	},
-	"3994" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[5]",
-				"de" : "ドロー[5]",
-				"fr" : "ドロー[5]",
-				"jp" : "ドロー[5]"
-			}
-		}
-	},
-	"3995" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドロー[6]",
-				"de" : "ドロー[6]",
-				"fr" : "ドロー[6]",
-				"jp" : "ドロー[6]"
-			}
-		}
-	},
 	"3996" : {
 		"type" : "effect",
 		"dot" : false,
@@ -51012,20 +48072,6 @@
 				"de" : "Verborgen",
 				"fr" : "Camouflage",
 				"jp" : "潜伏"
-			}
-		}
-	},
-	"3998" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -51253,62 +48299,6 @@
 			}
 		}
 	},
-	"4015" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4016" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4017" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4018" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4019" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -51376,48 +48366,6 @@
 				"de" : "Maximal aufgeputscht",
 				"fr" : "Mégadopage",
 				"jp" : "ドーピング［極］"
-			}
-		}
-	},
-	"4026" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4027" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4028" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -51715,146 +48663,6 @@
 			}
 		}
 	},
-	"4054" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4055" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4056" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4057" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4058" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4059" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4060" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4061" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4062" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4063" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4064" : {
 		"type" : "effect",
 		"dot" : false,
@@ -51894,34 +48702,6 @@
 				"de" : "Blutung",
 				"fr" : "Saignement",
 				"jp" : "ペイン"
-			}
-		}
-	},
-	"4069" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4070" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -52006,244 +48786,6 @@
 				"de" : "Korrektur: Orkanartige Winde",
 				"fr" : "Prévisions rectifiées: tempête de vent",
 				"jp" : "予報訂正：暴風"
-			}
-		}
-	},
-	"4077" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4078" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4079" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4080" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4081" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4082" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4083" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4084" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4085" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4086" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4087" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4088" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4089" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4090" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4091" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4092" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4093" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -52763,20 +49305,6 @@
 			}
 		}
 	},
-	"4131" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4132" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -52819,20 +49347,6 @@
 			}
 		}
 	},
-	"4135" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "●攻撃回想",
-				"de" : "●攻撃回想",
-				"fr" : "●攻撃回想",
-				"jp" : "●攻撃回想"
-			}
-		}
-	},
 	"4136" : {
 		"type" : "effect",
 		"dot" : false,
@@ -52844,34 +49358,6 @@
 				"de" : "Ätheransammlung",
 				"fr" : "Accumulation d'éther",
 				"jp" : "エーテルストック"
-			}
-		}
-	},
-	"4137" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4138" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -53113,160 +49599,6 @@
 			}
 		}
 	},
-	"4157" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4158" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4159" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4160" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4161" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4162" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4163" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4164" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4165" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4166" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4167" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4168" : {
 		"type" : "effect",
 		"dot" : false,
@@ -53311,48 +49643,6 @@
 			}
 		}
 	},
-	"4171" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4172" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4174" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4175" : {
 		"type" : "effect",
 		"dot" : false,
@@ -53364,90 +49654,6 @@
 				"de" : "Flammengewahrsam",
 				"fr" : "Barrière de flammes",
 				"jp" : "火精の守り"
-			}
-		}
-	},
-	"4177" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4178" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4179" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4180" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4181" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4182" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -53535,20 +49741,6 @@
 			}
 		}
 	},
-	"4191" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4198" : {
 		"type" : "effect",
 		"dot" : false,
@@ -53563,160 +49755,6 @@
 			}
 		}
 	},
-	"4199" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4200" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4201" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4202" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4203" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4204" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4205" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4206" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4207" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4208" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4209" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4210" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -53728,76 +49766,6 @@
 				"de" : "Amnesie",
 				"fr" : "Amnésie",
 				"jp" : "アビリティ不可"
-			}
-		}
-	},
-	"4211" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4212" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4213" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4214" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4215" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -53854,860 +49822,6 @@
 				"de" : "Levitation",
 				"fr" : "Lévitation",
 				"jp" : "レビテト"
-			}
-		}
-	},
-	"4220" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4221" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4222" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4223" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4224" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4225" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4226" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4227" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4228" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4229" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4230" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4231" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4232" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4233" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4234" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4235" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4236" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4237" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4238" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4239" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4240" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4241" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4242" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4243" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4244" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4245" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4246" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4247" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4248" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4249" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4250" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4251" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4252" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4253" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4254" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4255" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4256" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4257" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4258" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4259" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4260" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4261" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4262" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4263" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4264" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4265" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4266" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4267" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4268" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4269" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4270" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4271" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4272" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4273" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4274" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4275" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4276" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4277" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4278" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4279" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4280" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -54857,34 +49971,6 @@
 			}
 		}
 	},
-	"4291" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "インペイルメント実行可",
-				"de" : "インペイルメント実行可",
-				"fr" : "インペイルメント実行可",
-				"jp" : "インペイルメント実行可"
-			}
-		}
-	},
-	"4292" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ハートコンボ実行可",
-				"de" : "ハートコンボ実行可",
-				"fr" : "ハートコンボ実行可",
-				"jp" : "ハートコンボ実行可"
-			}
-		}
-	},
 	"4293" : {
 		"type" : "effect",
 		"dot" : false,
@@ -54944,62 +50030,6 @@
 				"de" : "Katharsis des Korunds",
 				"fr" : "Catharsis de corindon",
 				"jp" : "カタルシス・オブ・コランダム"
-			}
-		}
-	},
-	"4297" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ラフディバイド",
-				"de" : "ラフディバイド",
-				"fr" : "ラフディバイド",
-				"jp" : "ラフディバイド"
-			}
-		}
-	},
-	"4298" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "プシュケー",
-				"de" : "プシュケー",
-				"fr" : "プシュケー",
-				"jp" : "プシュケー"
-			}
-		}
-	},
-	"4299" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ブラッドドロー",
-				"de" : "ブラッドドロー",
-				"fr" : "ブラッドドロー",
-				"jp" : "ブラッドドロー"
-			}
-		}
-	},
-	"4300" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "絶空拳",
-				"de" : "絶空拳",
-				"fr" : "絶空拳",
-				"jp" : "絶空拳"
 			}
 		}
 	},
@@ -55135,34 +50165,6 @@
 			}
 		}
 	},
-	"4310" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4311" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4312" : {
 		"type" : "effect",
 		"dot" : false,
@@ -55247,20 +50249,6 @@
 			}
 		}
 	},
-	"4318" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "クリムゾンサイクロン",
-				"de" : "クリムゾンサイクロン",
-				"fr" : "クリムゾンサイクロン",
-				"jp" : "クリムゾンサイクロン"
-			}
-		}
-	},
 	"4319" : {
 		"type" : "dot",
 		"dot" : true,
@@ -55321,20 +50309,6 @@
 			}
 		}
 	},
-	"4323" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "アンガジェマン実行可",
-				"de" : "アンガジェマン実行可",
-				"fr" : "アンガジェマン実行可",
-				"jp" : "アンガジェマン実行可"
-			}
-		}
-	},
 	"4324" : {
 		"type" : "effect",
 		"dot" : false,
@@ -55346,20 +50320,6 @@
 				"de" : "Grobe Skizze",
 				"fr" : "Dessin rapide",
 				"jp" : "ラフドローイング"
-			}
-		}
-	},
-	"4325" : {
-		"type" : "debuff",
-		"dot" : false,
-		"debuff" : true,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ハート・オブ・ミゼリ",
-				"de" : "ハート・オブ・ミゼリ",
-				"fr" : "ハート・オブ・ミゼリ",
-				"jp" : "ハート・オブ・ミゼリ"
 			}
 		}
 	},
@@ -55483,90 +50443,6 @@
 			}
 		}
 	},
-	"4334" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4335" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4336" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4337" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4338" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4339" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4340" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -55578,118 +50454,6 @@
 				"de" : "Fessel",
 				"fr" : "Entrave",
 				"jp" : "バインド"
-			}
-		}
-	},
-	"4342" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4343" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4344" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4345" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4346" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4347" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4348" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4349" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -55721,62 +50485,6 @@
 			}
 		}
 	},
-	"4353" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4354" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4355" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4356" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4357" : {
 		"type" : "effect",
 		"dot" : false,
@@ -55788,174 +50496,6 @@
 				"de" : "Veränderte Reichweite",
 				"fr" : "Portée d'action changée",
 				"jp" : "アクション効果範囲変更"
-			}
-		}
-	},
-	"4358" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4359" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4360" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4361" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4362" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4363" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4364" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4365" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4366" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4367" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4368" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4369" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -55973,34 +50513,6 @@
 			}
 		}
 	},
-	"4372" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4373" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4374" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -56012,34 +50524,6 @@
 				"de" : "Betäubung",
 				"fr" : "Étourdissement",
 				"jp" : "スタン"
-			}
-		}
-	},
-	"4375" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4376" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -56085,62 +50569,6 @@
 			}
 		}
 	},
-	"4381" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "ドレッドセンチネル",
-				"de" : "ドレッドセンチネル",
-				"fr" : "ドレッドセンチネル",
-				"jp" : "ドレッドセンチネル"
-			}
-		}
-	},
-	"4382" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4383" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4384" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4385" : {
 		"type" : "effect",
 		"dot" : false,
@@ -56152,188 +50580,6 @@
 				"de" : "Supersprint",
 				"fr" : "Super sprint",
 				"jp" : "スーパースプリント"
-			}
-		}
-	},
-	"4386" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4387" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4388" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4389" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4390" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4391" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4392" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4393" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4394" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4395" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4396" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4397" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4398" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -56365,20 +50611,6 @@
 				"de" : "Zinnoberfeuer",
 				"fr" : "Assaut écarlate préparé",
 				"jp" : "クリムゾンストライク実行可"
-			}
-		}
-	},
-	"4401" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -56428,34 +50660,6 @@
 			}
 		}
 	},
-	"4405" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4406" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4407" : {
 		"type" : "effect",
 		"dot" : false,
@@ -56470,34 +50674,6 @@
 			}
 		}
 	},
-	"4408" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4409" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4410" : {
 		"type" : "effect",
 		"dot" : false,
@@ -56509,76 +50685,6 @@
 				"de" : "Unverwundbar",
 				"fr" : "Invulnérable",
 				"jp" : "無敵"
-			}
-		}
-	},
-	"4411" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4412" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4413" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4414" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4415" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
 			}
 		}
 	},
@@ -56694,20 +50800,6 @@
 			}
 		}
 	},
-	"4424" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4425" : {
 		"type" : "effect",
 		"dot" : false,
@@ -56792,34 +50884,6 @@
 			}
 		}
 	},
-	"4431" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4432" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
 	"4433" : {
 		"type" : "debuff",
 		"dot" : false,
@@ -56834,941 +50898,45 @@
 			}
 		}
 	},
-	"4434" : {
+	"4516" : {
 		"type" : "effect",
 		"dot" : false,
 		"debuff" : false,
 		"jobs" : [],
 		"locales" : {
 			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
+				"en" : "PvP Role Action: Phantom Dart",
+				"de" : "PvP-Rollenkommando: Phantompfeil",
+				"fr" : "Action de rôle JcJ: Projectile fantôme",
+				"jp" : "PvPロールアクション：ファントムダート"
 			}
 		}
 	},
-	"4435" : {
+	"4517" : {
 		"type" : "effect",
 		"dot" : false,
 		"debuff" : false,
 		"jobs" : [],
 		"locales" : {
 			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
+				"en" : "Hungry for Victory",
+				"de" : "Euphorie des Wolfes",
+				"fr" : "Exhaltation du champion",
+				"jp" : "王者の高揚"
 			}
 		}
 	},
-	"4436" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4437" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4438" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4439" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4440" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4441" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4442" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4443" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4444" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4445" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4446" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4447" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4448" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4449" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4450" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4451" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4452" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4453" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4454" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4455" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4456" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4457" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4458" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4459" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4460" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4461" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4462" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4463" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4464" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4465" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4466" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4467" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4468" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4469" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4470" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4471" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4472" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4473" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4474" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4475" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4476" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4477" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4478" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4479" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4480" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4481" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4482" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4483" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4484" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4485" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4486" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4487" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4488" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4489" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4490" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4491" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4492" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4493" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4494" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4495" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4496" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4497" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4498" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4499" : {
-		"type" : "effect",
-		"dot" : false,
-		"debuff" : false,
-		"jobs" : [],
-		"locales" : {
-			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
-			}
-		}
-	},
-	"4500" : {
-		"type" : "effect",
+	"4537" : {
+		"type" : "debuff",
 		"dot" : false,
-		"debuff" : false,
+		"debuff" : true,
 		"jobs" : [],
 		"locales" : {
 			"name" : {
-				"en" : "",
-				"de" : "",
-				"fr" : "",
-				"jp" : ""
+				"en" : "Stone Curse",
+				"de" : "Steinfluch",
+				"fr" : "Malédiction pétrificante",
+				"jp" : "石化の呪い"
 			}
 		}
 	}
