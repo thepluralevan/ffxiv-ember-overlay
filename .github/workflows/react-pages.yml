@@ -28,6 +28,57 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
+          
+      - name: Create .env-cmdrc from secrets
+        run: |
+          cat << 'EOF' > .env-cmdrc
+          {
+            "default": {
+              "REACT_APP_ROUTER_BASE": "",
+              "REACT_APP_HTTP_BASE": "${REACT_APP_HTTP_BASE}",
+              "REACT_APP_REDIRECT_URL": "${REACT_APP_REDIRECT_URL}",
+              "REACT_APP_VERSION": "${REACT_APP_VERSION}",
+              "REACT_APP_GITHUB_URL": "${REACT_APP_GITHUB_URL}",
+              "REACT_APP_DISCORD_URL": "${REACT_APP_DISCORD_URL}",
+              "REACT_APP_AUTHOR_URL": "${REACT_APP_AUTHOR_URL}",
+              "REACT_APP_CHANGELOG_URL": "${REACT_APP_CHANGELOG_URL}",
+              "REACT_APP_TWITCH_API_CLIENT_ID": "${REACT_APP_TWITCH_API_CLIENT_ID}",
+              "REACT_APP_CASH_DONATE_LINK": "${REACT_APP_CASH_DONATE_LINK}",
+              "REACT_APP_PAYPAL_DONATE_LINK": "${REACT_APP_PAYPAL_DONATE_LINK}",
+              "REACT_APP_STREAMLABS_DONATE_LINK": "${REACT_APP_STREAMLABS_DONATE_LINK}",
+              "REACT_APP_KOFI_DONATE_LINK": "${REACT_APP_KOFI_DONATE_LINK}",
+              "REACT_APP_PATREON_DONATE_LINK": "${REACT_APP_PATREON_DONATE_LINK}",
+              "REACT_APP_PAYPAY_DONATE_LINK": "${REACT_APP_PAYPAY_DONATE_LINK}",
+              "REACT_APP_PAYPAY_DONATE_ID": "${REACT_APP_PAYPAY_DONATE_ID}",
+              "REACT_APP_PAGE_TITLE": "${REACT_APP_PAGE_TITLE}",
+              "REACT_APP_GOOGLE_TAG_MANAGER_ID": "${REACT_APP_GOOGLE_TAG_MANAGER_ID}",
+              "REACT_APP_ENV": "${BUILD_TYPE}"
+            },
+            "nonssl": {
+              "REACT_APP_GOOGLE_TAG_MANAGER_ID": "${REACT_APP_NONSSL_GOOGLE_TAG_MANAGER_ID}"
+            }
+          }
+          EOF
+        env:
+          REACT_APP_HTTP_BASE: ${{ secrets.REACT_APP_HTTP_BASE }}
+          REACT_APP_REDIRECT_URL: ${{ secrets.REACT_APP_REDIRECT_URL }}
+          REACT_APP_VERSION: ${{ secrets.REACT_APP_VERSION }}
+          REACT_APP_GITHUB_URL: ${{ secrets.REACT_APP_GITHUB_URL }}
+          REACT_APP_DISCORD_URL: ${{ secrets.REACT_APP_DISCORD_URL }}
+          REACT_APP_AUTHOR_URL: ${{ secrets.REACT_APP_AUTHOR_URL }}
+          REACT_APP_CHANGELOG_URL: ${{ secrets.REACT_APP_CHANGELOG_URL }}
+          REACT_APP_TWITCH_API_CLIENT_ID: ${{ secrets.REACT_APP_TWITCH_API_CLIENT_ID }}
+          REACT_APP_CASH_DONATE_LINK: ${{ secrets.REACT_APP_CASH_DONATE_LINK }}
+          REACT_APP_PAYPAL_DONATE_LINK: ${{ secrets.REACT_APP_PAYPAL_DONATE_LINK }}
+          REACT_APP_STREAMLABS_DONATE_LINK: ${{ secrets.REACT_APP_STREAMLABS_DONATE_LINK }}
+          REACT_APP_KOFI_DONATE_LINK: ${{ secrets.REACT_APP_KOFI_DONATE_LINK }}
+          REACT_APP_PATREON_DONATE_LINK: ${{ secrets.REACT_APP_PATREON_DONATE_LINK }}
+          REACT_APP_PAYPAY_DONATE_LINK: ${{ secrets.REACT_APP_PAYPAY_DONATE_LINK }}
+          REACT_APP_PAYPAY_DONATE_ID: ${{ secrets.REACT_APP_PAYPAY_DONATE_ID }}
+          REACT_APP_PAGE_TITLE: ${{ secrets.REACT_APP_PAGE_TITLE }}
+          REACT_APP_GOOGLE_TAG_MANAGER_ID: ${{ secrets.REACT_APP_GOOGLE_TAG_MANAGER_ID }}
+          REACT_APP_NONSSL_GOOGLE_TAG_MANAGER_ID: ${{ secrets.REACT_APP_NONSSL_GOOGLE_TAG_MANAGER_ID }}
+          BUILD_TYPE: ${{ secrets.BUILD_TYPE }}
 
       - name: Install dependencies
         run: npm ci
