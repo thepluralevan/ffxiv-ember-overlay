@@ -1930,6 +1930,43 @@ body[theme=ffxiv-classic] #container #inner #content .spell-grid .spell-containe
 	);
 }
 
+#player-table {
+  // Tanks
+  .row[data-job="PLD"] .percent-bar { background-color: @job-PLD-bar; } // Paladin
+  .row[data-job="WAR"] .percent-bar { background-color: @job-WAR-bar; } // Warrior
+  .row[data-job="DRK"] .percent-bar { background-color: @job-DRK-bar; } // Dark Knight
+  .row[data-job="GNB"] .percent-bar { background-color: @job-GNB-bar; } // Gunbreaker
+
+  // Healers
+  .row[data-job="WHM"] .percent-bar { background-color: @job-WHM-bar; } // White Mage
+  .row[data-job="SCH"] .percent-bar { background-color: @job-SCH-bar; } // Scholar
+  .row[data-job="AST"] .percent-bar { background-color: @job-AST-bar; } // Astrologian
+  .row[data-job="SGE"] .percent-bar { background-color: @job-SGE-bar; } // Sage
+
+  // Melee DPS
+  .row[data-job="MNK"] .percent-bar { background-color: @job-MNK-bar; } // Monk
+  .row[data-job="DRG"] .percent-bar { background-color: @job-DRG-bar; } // Dragoon
+  .row[data-job="NIN"] .percent-bar { background-color: @job-NIN-bar; } // Ninja
+  .row[data-job="SAM"] .percent-bar { background-color: @job-SAM-bar; } // Samurai
+  .row[data-job="RPR"] .percent-bar { background-color: @job-RPR-bar; } // Reaper
+  .row[data-job="VPR"] .percent-bar { background-color: @job-VPR-bar; } // Viper
+
+  // Physical Ranged DPS
+  .row[data-job="BRD"] .percent-bar { background-color: @job-BRD-bar; } // Bard
+  .row[data-job="MCH"] .percent-bar { background-color: @job-MCH-bar; } // Machinist
+  .row[data-job="DNC"] .percent-bar { background-color: @job-DNC-bar; } // Dancer
+
+  // Magical Ranged DPS
+  .row[data-job="BLM"] .percent-bar { background-color: @job-BLM-bar; } // Black Mage
+  .row[data-job="SMN"] .percent-bar { background-color: @job-SMN-bar; } // Summoner
+  .row[data-job="RDM"] .percent-bar { background-color: @job-RDM-bar; } // Red Mage
+  .row[data-job="PCT"] .percent-bar { background-color: @job-PCT-bar; } // Pictomancer
+  .row[data-job="BLU"] .percent-bar { background-color: @job-BLU-bar; } // Blue Mage (limited)
+
+  // Limit Break / misc
+  .row[data-job="LMB"] .percent-bar { background-color: @job-LMB-bar; } // Limit Break
+}
+
 /* START HORIZONTAL LAYOUT */
 body.horizontal > #root {
 	height: auto;
