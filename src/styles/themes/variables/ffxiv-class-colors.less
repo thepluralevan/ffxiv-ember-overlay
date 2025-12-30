@@ -1,0 +1,67 @@
+// Job bar colors (RGBA)
+@job-PLD-bar: rgba(64, 128, 255, 0.2);
+@job-WAR-bar: rgba(192, 64, 64, 0.2);
+@job-DRK-bar: rgba(96, 32, 96, 0.2);
+@job-GNB-bar: rgba(80, 112, 176, 0.2);
+
+@job-WHM-bar: rgba(224, 224, 255, 0.2);
+@job-SCH-bar: rgba(64, 160, 160, 0.2);
+@job-AST-bar: rgba(191, 163, 76, 0.2);
+@job-SGE-bar: rgba(64, 192, 192, 0.2);
+
+@job-MNK-bar: rgba(224, 192, 64, 0.2);
+@job-DRG-bar: rgba(64, 96, 224, 0.2);
+@job-NIN-bar: rgba(224, 128, 64, 0.2);
+@job-SAM-bar: rgba(224, 64, 64, 0.2);
+@job-RPR-bar: rgba(128, 32, 64, 0.2);
+@job-VPR-bar: rgba(187, 85, 255, 0.2);
+
+@job-BRD-bar: rgba(96, 192, 96, 0.2);
+@job-MCH-bar: rgba(0, 160, 160, 0.2);
+@job-DNC-bar: rgba(224, 128, 192, 0.2);
+
+@job-BLM-bar: rgba(96, 64, 160, 0.2);
+@job-SMN-bar: rgba(96, 192, 128, 0.2);
+@job-RDM-bar: rgba(200, 40, 40, 0.2);
+@job-PCT-bar: rgba(64, 192, 255, 0.2);
+@job-BLU-bar: rgba(64, 128, 192, 0.2);
+
+@job-LMB-bar: rgba(128, 128, 128, 0.2);
+
+// Usage (selectors)
+#player-table {
+  // Tanks
+  .row[data-job="PLD"] .percent-bar { background-color: @job-PLD-bar; } // Paladin
+  .row[data-job="WAR"] .percent-bar { background-color: @job-WAR-bar; } // Warrior
+  .row[data-job="DRK"] .percent-bar { background-color: @job-DRK-bar; } // Dark Knight
+  .row[data-job="GNB"] .percent-bar { background-color: @job-GNB-bar; } // Gunbreaker
+
+  // Healers
+  .row[data-job="WHM"] .percent-bar { background-color: @job-WHM-bar; } // White Mage
+  .row[data-job="SCH"] .percent-bar { background-color: @job-SCH-bar; } // Scholar
+  .row[data-job="AST"] .percent-bar { background-color: @job-AST-bar; } // Astrologian
+  .row[data-job="SGE"] .percent-bar { background-color: @job-SGE-bar; } // Sage
+
+  // Melee DPS
+  .row[data-job="MNK"] .percent-bar { background-color: @job-MNK-bar; } // Monk
+  .row[data-job="DRG"] .percent-bar { background-color: @job-DRG-bar; } // Dragoon
+  .row[data-job="NIN"] .percent-bar { background-color: @job-NIN-bar; } // Ninja
+  .row[data-job="SAM"] .percent-bar { background-color: @job-SAM-bar; } // Samurai
+  .row[data-job="RPR"] .percent-bar { background-color: @job-RPR-bar; } // Reaper
+  .row[data-job="VPR"] .percent-bar { background-color: @job-VPR-bar; } // Viper
+
+  // Physical Ranged DPS
+  .row[data-job="BRD"] .percent-bar { background-color: @job-BRD-bar; } // Bard
+  .row[data-job="MCH"] .percent-bar { background-color: @job-MCH-bar; } // Machinist
+  .row[data-job="DNC"] .percent-bar { background-color: @job-DNC-bar; } // Dancer
+
+  // Magical Ranged DPS
+  .row[data-job="BLM"] .percent-bar { background-color: @job-BLM-bar; } // Black Mage
+  .row[data-job="SMN"] .percent-bar { background-color: @job-SMN-bar; } // Summoner
+  .row[data-job="RDM"] .percent-bar { background-color: @job-RDM-bar; } // Red Mage
+  .row[data-job="PCT"] .percent-bar { background-color: @job-PCT-bar; } // Pictomancer
+  .row[data-job="BLU"] .percent-bar { background-color: @job-BLU-bar; } // Blue Mage
+
+  // Limit Break / misc
+  .row[data-job="LMB"] .percent-bar { background-color: @job-LMB-bar; } // Limit Break
+}
